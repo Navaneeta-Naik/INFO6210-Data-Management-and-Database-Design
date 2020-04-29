@@ -1,0 +1,30 @@
+Resort_Name,Nearest_City,Peak_Elevation(ft),Skiable_Acreage,Total_Trails,Total_Lifts,Average_Snowfall(in),Ticket_Price(USD)
+Squaw Valley USA skiresort,Olympic Valley,"9,050","3,600",170,29,450,"$89+ Online, $169+ at Window"
+Mammoth Mountain skiresort,Mammoth Lakes,"11,053","3,500",150,25,400,"$79+ Online, $99+ at Window"
+Heavenly Mountain Resort skiresort,South Lake Tahoe,"10,067","4,800",97,28,360,"$131+ Online, $164+ at Window"
+Mount Shasta Ski Park skiresort,Mount Shasta,"6,866",425,32,5,275,$49+
+Alpine Meadows skiresort,Alpine Meadows,"8,637","2,400",100,13,450,"$89+ Online, $169+ at Window"
+Boreal skiresort,Soda Springs,"7,700",380,41,8,400,"$52 weekday, $58 holiday"
+Donner Ski Ranch skiresort,Norden,"7,781",435,52,8,400,$45
+Homewood skiresort,Homewood,"7,881","1,260",60,7,400,$57
+Kirkwood skiresort,Kirkwood,"9,800","2,300",65,15,500,$79
+Northstar at Tahoe skiresort,Truckee,"8,610","2,904",93,19,350,$72 November 14–20
+Sierra-at-Tahoe skiresort,Twin Bridges,"8,852","2,000",46,12,480,$77
+Sugar Bowl skiresort,Norden,"8,383","1,500",94,13,500,$80 daily and $85 holidays
+Soda Springs skiresort,Soda Springs,"7,325",200,15,2,400,$36
+Tahoe Donner skiresort,Truckee,"7,350",120,10,3,400,$41
+Badger Pass skiresort,Yosemite National Park,"8,000",90,10,5,300,$42
+Bear Valley skiresort,Angels Camp,"8,500","1,680",67,10,359,"$74 peak, $69 off peak"
+Dodge Ridge skiresort,Sonora,"8,200",832,62,12,300,
+June Mountain skiresort,June Lake,"10,090",500,35,7,250,
+China Peak skiresort,Lakeshore,"8,709","1,200",45,11,300,
+Alta Sierra skiresort,Wofford Heights,"7,091",,6,2,,
+Buckhorn Ski and Snowboard Club skiresort,Three Points,"7,903",40,5,2,180,
+Bear Mountain skiresort,Big Bear Lake,"8,805",198,24,12,100,"$59 weekday, $72 holiday and peak weekends"
+Kratka Ridge skiresort,,"7,500",,13,3,,
+Mount Baldy Ski Lifts skiresort,Mount Baldy,"8,600",800,26,4,170,
+Mount Waterman skiresort,Three Points,"8,030",150,27,3,180,
+Mountain High skiresort,Wrightwood,"8,200",290,59,13,,"$59 weekday, $69 holiday and peak weekends"
+Snow Summit skiresort,Big Bear Lake,"8,174",240,30,14,100,"$89 weekday, $72 holiday and peak weekends"
+Snow Valley Mountain Resort skiresort,Running Springs,"7,841",240,29,12,150,
+Cedar Pass Ski Area skiresort,Alturas,,,,,,$20
